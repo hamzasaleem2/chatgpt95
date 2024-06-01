@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@ai-sdk/openai": "^0.0.18",
+    "ai": "^3.1.22",
+    "next": "14.2.3",
+    "openai": "^4.47.3",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.3"
+    "react-draggable": "^4.4.6",
+    "react95": "^4.0.0",
+    "styled-components": "^6.1.11"
   },
   "devDependencies": {
     "typescript": "^5",
