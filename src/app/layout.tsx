@@ -3,7 +3,7 @@ import Providers from "./providers";
 
 export const metadata: Metadata = {
   title: "ChatGPT95",
-  description: "good afternoon in 1995",
+  description: "good afternoon with AI in 1995",
 };
 
 export default function RootLayout({
