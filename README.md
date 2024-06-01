@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/hamzasaleem2/chatgpt95/blob/main/screenshot.jpeg)
 
 
 ## Run Locally
@@ -10,7 +10,7 @@
 Clone the project
 
 ```bash
-  git clone
+  git clone https://github.com/hamzasaleem2/chatgpt95.git
 ```
 Install dependencies
 
